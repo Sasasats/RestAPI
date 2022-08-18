@@ -4,11 +4,11 @@ Repository with a practical task for Rest API on Python
 
 # Installation external modules
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
 # Run tests
 
-'python -m pytest tests/*'
+`python -m pytest tests/*`
 
 # Project structure
 
